@@ -1,2 +1,3 @@
-# pdf-download-page
-개발공부
+# study doc hub
+
+개발공부를 하면서 공부한 것들을 저장해놓은 허브 입니다
